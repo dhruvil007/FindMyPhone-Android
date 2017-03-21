@@ -1,5 +1,7 @@
 package com.dhruvil.rajat.findmyphone;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.TextInputEditText;
 import android.support.v7.app.AppCompatActivity;
@@ -25,8 +27,10 @@ public class LoginActivity extends AppCompatActivity {
 
     private final String TAG = "LoginActivity";
 
+    private final Context context = this;
     private TextInputEditText usernameEditText;
     private TextInputEditText passwordEditText;
+    private RequestQueue requestQueue;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,18 +77,20 @@ public class LoginActivity extends AppCompatActivity {
         final String token = FirebaseInstanceId.getInstance().getToken();
         Log.e(TAG, "Username: " + usernameEditText.getText().toString());
         Log.e(TAG, "Password: " + passwordEditText.getText().toString());
-        Log.e(TAG, "Token:" + token);
-        String url = "10.0.2.2/login";
+        Log.e(TAG, "Token: " + token);
+        String url = "http://10.0.2.2:8000/app/login/";
         StringRequest request = new StringRequest(Request.Method.POST, url, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
                 Log.e(TAG, "Logged in.");
-//                Intent intent = new Intent(this, MainActivity.class);
+                Intent intent = new Intent(context, MainActivity.class);
+                startActivity(intent);
             }
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
                 Log.e(TAG, "Error logging in.");
+//                Log.e(TAG, "" + error.networkResponse.statusCode);
             }
         }) {
             @Override
@@ -97,7 +103,7 @@ public class LoginActivity extends AppCompatActivity {
                 return params;
             }
         };
-        RequestQueue requestQueue = Volley.newRequestQueue(this);
+        requestQueue = Volley.newRequestQueue(this);
         requestQueue.add(request);
     }
 }

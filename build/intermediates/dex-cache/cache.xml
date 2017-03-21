@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/6710608c61491307a14b462c1d26ad04f219fa5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_380fbcbf4cbdc0091f5454aa4e56260f48782e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/2af337dd3638d059152bdec12e7603f92702715a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_cd1801453aaff3f5cd9134bf850aad57c9f3acf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/22c99673e27f5cbd6205bd6b41cbbbeb2a378ae2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d58fc73619d868adc8f2c9f42086e52093aeed54">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_5beba3e99923407c24d990415c123365672f384f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/a3a76b24d2edf977c60ba59d96145a5a557dc821/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_5865612d16b00870099194bec4bf67315239b39f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/2fbdf690aa640470dd02ec74369f19b27856c9c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_4ebb3ae6bc44284f1eee2549215224c2d84430c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/d916646a101ee88065c63e2f608674711b35c2ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_551c00d47969ab14c3919ddc97a105c5ce3dc424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/ef974cf87e2b78dea711a2476194a68c6fea9153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_6633951eda4419c1ef9a289f97021c796b6cbd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/0a421a51b65bdebb7a5f1498459ddc61b4845356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_c2f3019dfd2d636422d00827588bc54d98ff2469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/b0c2dad6bc376eb5c1f2379082cea84dce64597e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_813ae2c21d273e81cc11dc1b554e826f1f59db09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/02ae3ee40d364a620ac58e313ae5b039f5b24ff7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_d44aecc4cd7136858c1d97e2f06302bbf4c64778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/274f442140c906c62e3cc4ba046e3b6916ee1796/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_2bee276bc769da5bd48d9be12155420fa9304d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/f18bd2fde5a3be0aa9d8148692587104de1a4a46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_fd75298ef4263b02c6c717adc6aa12f032b510ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/94402f375a035dc7754bdd0b19bc54ea23e4fd9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_999266d2e48067a6958b74a97954fb70bc5e2b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/f63007ea345de8920244267d2f7bb21da7f079aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_f656e73d241574c73173b7595ce6780efbed0d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/cf2314de1580b2d843b77164ecc42e0ce2f4c77c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_4591649b02809c5242adb2b9efd7f1ea1fc0de8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/a07b1c278d88a66001417f887050e7a6bd87e50b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_26d6d0f488476e007760e9f6b5b556a9460d3f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/b7282d359bc9b43d5d7f619455f0b673e1539a5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_7cd732d01f3386cc0b1929b1fab8b54f86924c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/11d1580916d75d7be1136ef8b13ec6d061c590ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_e51fd6f191a064e52a21a203116f34151fd215d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_86d9f7619613c167d3ebddf8500f250a4d34b19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/0b38ca1a0a353070aa6846851a1337f71f66a76a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_3522adb7686136a5166db89af2d5de28bc037f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/74ca4680144cd8165b8547ae4be45f74f2334a3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_4b461decf5b01765275b1ba18bd5f93f4005b0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/949f3c3c69ac50826f7bed667064b074fdbfc83e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_f75f8d9bc1fec6a33338d3e2c8abe39e24b3cb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/a938699e739f98575a766f8123060df67255dd9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_4bca1b602ee3b4d008a50ca3edcf392cc3547e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dhruvilmehta/.android/build-cache/eeee65444a87dff73ea3ec584657159dcefcb7c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/dhruvilmehta/AndroidStudioProjects/FindMyPhone/app/build/intermediates/pre-dexed/debug/classes_f33b705e7b281465b86d0cb512809f731643e248.jar" />
+    </item>
+
+</items>
